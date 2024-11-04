@@ -1,0 +1,28 @@
+# Archivos generados por Maven
+/target/
+
+# Archivos del sistema operativo
+*.log
+*.swp
+.DS_Store
+
+# Archivos y carpetas de IDEs
+/.settings/
+/.project
+.classpath
+.idea/
+/*.iml
+
+# Maven Wrapper
+!mvnw
+!mvnw.cmd
+!.mvn/
+
+# Archivos de configuración de IntelliJ IDEA
+.idea
+*.iml
+*.iws
+
+# Archivos generados por sistemas de compilación
+/build/
+/out/
